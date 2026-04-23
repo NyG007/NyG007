@@ -28,6 +28,8 @@ Full Stack Developer, focused on **Java** — from backend development to framew
   <img alt="Git" title="Git" width="35px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 </p>
 
+---
+
 📚 **Currently**
 
 - 🎓 Student of Systems Analysis and Development
