@@ -14,8 +14,8 @@ Full Stack Developer, focused on Java — from backend development to frameworks
 
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Java"
+    title="Java"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
@@ -23,8 +23,8 @@ Full Stack Developer, focused on Java — from backend development to frameworks
 
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="JavaScript"
+    title="JavaScript"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
@@ -32,8 +32,8 @@ Full Stack Developer, focused on Java — from backend development to frameworks
 
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="TypeScript"
+    title="TypeScript"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
@@ -41,8 +41,8 @@ Full Stack Developer, focused on Java — from backend development to frameworks
 
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="React"
+    title="React"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
@@ -50,8 +50,8 @@ Full Stack Developer, focused on Java — from backend development to frameworks
          
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Next.js"
+    title="Next.js"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
@@ -59,8 +59,8 @@ Full Stack Developer, focused on Java — from backend development to frameworks
 
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Node.js"
+    title="Node.js"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
@@ -68,8 +68,8 @@ Full Stack Developer, focused on Java — from backend development to frameworks
 
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Python"
+    title="Python"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
@@ -77,8 +77,8 @@ Full Stack Developer, focused on Java — from backend development to frameworks
 
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="MySQL"
+    title="MySQL"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
@@ -86,17 +86,8 @@ Full Stack Developer, focused on Java — from backend development to frameworks
 
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
-    width="35px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
+    alt="HTML5"
+    title="HTML5"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
@@ -104,8 +95,8 @@ Full Stack Developer, focused on Java — from backend development to frameworks
           
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="CSS3"
+    title="CSS3"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
@@ -113,18 +104,18 @@ Full Stack Developer, focused on Java — from backend development to frameworks
 
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Git"
+    title="Git"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
 />
 
-**`Focus: Full Stack Development · Backend · Automation`**
-
 ---
 
-**📚 Currently
+**`Focus: Full Stack Development · Backend · Automation`**
+
+**📚 Currently**
 
 - 🎓 Student of Systems Analysis and Development
 - 📔 Studying Computer Science CS50 Havard 
