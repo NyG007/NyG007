@@ -112,8 +112,7 @@ Full Stack Developer, focused on Java — from backend development to frameworks
 <br/>
 
 <p>
-    **📚 Currently**
-
+    📚 Currently
     - 🎓 Student of Systems Analysis and Development
     - 📔 Studying Computer Science CS50 Havard 
     - 🔨 Building projects and improving my skills
