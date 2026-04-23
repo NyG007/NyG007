@@ -16,7 +16,7 @@ Full Stack Developer, focused on Java — from backend development to frameworks
     align="left"
     alt="CSS"
     title="CSS"
-    width="50px"
+    width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
@@ -25,7 +25,7 @@ Full Stack Developer, focused on Java — from backend development to frameworks
     align="left"
     alt="CSS"
     title="CSS"
-    width="50px"
+    width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -34,7 +34,7 @@ Full Stack Developer, focused on Java — from backend development to frameworks
     align="left"
     alt="CSS"
     title="CSS"
-    width="50px"
+    width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -43,16 +43,16 @@ Full Stack Developer, focused on Java — from backend development to frameworks
     align="left"
     alt="CSS"
     title="CSS"
-    width="50px"
+    width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
-/> react
+/>
          
 <img
     align="left"
     alt="CSS"
     title="CSS"
-    width="50px"
+    width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />        
@@ -61,7 +61,7 @@ Full Stack Developer, focused on Java — from backend development to frameworks
     align="left"
     alt="CSS"
     title="CSS"
-    width="50px"
+    width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
@@ -70,7 +70,7 @@ Full Stack Developer, focused on Java — from backend development to frameworks
     align="left"
     alt="CSS"
     title="CSS"
-    width="50px"
+    width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
 />
@@ -79,7 +79,7 @@ Full Stack Developer, focused on Java — from backend development to frameworks
     align="left"
     alt="CSS"
     title="CSS"
-    width="50px"
+    width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
@@ -88,7 +88,7 @@ Full Stack Developer, focused on Java — from backend development to frameworks
     align="left"
     alt="CSS"
     title="CSS"
-    width="50px"
+    width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
@@ -97,7 +97,7 @@ Full Stack Developer, focused on Java — from backend development to frameworks
     align="left"
     alt="CSS"
     title="CSS"
-    width="50px"
+    width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
 />
@@ -106,7 +106,7 @@ Full Stack Developer, focused on Java — from backend development to frameworks
     align="left"
     alt="CSS"
     title="CSS"
-    width="50px"
+    width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
 />
@@ -115,10 +115,10 @@ Full Stack Developer, focused on Java — from backend development to frameworks
     align="left"
     alt="CSS"
     title="CSS"
-    width="50px"
+    width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
-/> git
+/>
 
 **`Focus: Full Stack Development · Backend · Automation`**
 
