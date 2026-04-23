@@ -110,7 +110,7 @@ Full Stack Developer, focused on Java — from backend development to frameworks
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
 />
-
+<br/>
 ---
 
 **`Focus: Full Stack Development · Backend · Automation`**
