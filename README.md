@@ -4,7 +4,7 @@
 
 Hey there! I'm **Yuri**, System Development student from São Paulo, Brazil 🇧🇷.
 
-· Fullstack Developer in trainig
+· Fullstack Developer in training
 · Focused on turning problems into simple and efficient solutions through automation
 · JavaScript & Python as main tools
 · Building web projects and practical solutions for everyday
